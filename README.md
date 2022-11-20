@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <a href="https://github.com/thiagobragancaso">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=thiagobragancaso&count_private=true&show_icons=true&theme=ayu-mirage"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobragancaso&layout-compact&langs_count=16&theme=ayu-mirage"/>
+</div>
